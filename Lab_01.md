@@ -8,13 +8,13 @@
 
 ## Output
 
-
+![alttext](./image-19.png)
 
 ## Question-02
 
 ### Write a C Program to print the address in multiple lines using only one printf.
 
-
+![alttext](./image-21.png)
 
 ## Output
 
@@ -28,7 +28,7 @@
 
 ## output
 
-
+![alttext](./image-22.png)
 
 ## Question-04
 
@@ -38,7 +38,7 @@
 
 ## Output
 
-
+![alttext](./image-23.png)
 
 ## Question-05
 
@@ -48,3 +48,4 @@
 
 ## Output
 
+![alttext](./image-20.png)
