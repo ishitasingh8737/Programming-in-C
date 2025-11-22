@@ -6,15 +6,18 @@
 
 ## Question 01
 
-
+![alttext](./image-13.png)
+![alttext](./image-14.png)
 
 ## Question 02 
 
-
+![alttext](./image-15.png)
+![alttext](./image-16.png)
 
 ## Output 01 and 02
 
-
+![alttext](./image-17.png)
+![alttext](./image-18.png)
 
 ## Question-03(a) and 3(b)
 
