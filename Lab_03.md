@@ -15,6 +15,10 @@ subjects and returns the average and percentage of these
 marks. Call this function from main( ) and print the results in
 main( ).
 
+![alttext](./image.png)
+![alttext](./image-1.png)
+![alttext](./image-2.png)
 
 ## Output
 
+![alttext](./image-3.png)
